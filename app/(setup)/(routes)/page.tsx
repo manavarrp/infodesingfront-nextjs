@@ -24,7 +24,7 @@ export default function Home() {
   }
 
   return (
-    <div className="dark:bg-zinc-700/70">
+    <div>
       <HeaderComponent
         title="Tramos"
         icon={
